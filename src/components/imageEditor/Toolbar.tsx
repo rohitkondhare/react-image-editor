@@ -21,6 +21,8 @@ export const PREDEFINED_COLORS = [
   "#ECC94B", // Light yellow
   "#9F7AEA", // Light purple
   "#ED8936", // Light orange
+  "#FFFFFF", // White
+  "#000000", // Black
 ] as const;
 
 // ToolbarButton Component
